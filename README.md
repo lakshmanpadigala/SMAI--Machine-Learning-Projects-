@@ -1,1 +1,1 @@
-# SMAI--Machine-Learning-Projects-
+# SMAI-Machine-Learning-Projects
